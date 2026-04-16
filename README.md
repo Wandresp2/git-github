@@ -93,6 +93,6 @@ Puedes verla [aquí](/Paquete/).
 
 Mi primera contribucion local para github - Andres David Perez
 
-
+- n commit mas desde el editor de Github
 
 
