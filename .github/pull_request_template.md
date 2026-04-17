@@ -20,6 +20,9 @@ Asegúrate de marcar las casillas que apliquen.
 ### ¿Existen tickets/issues relacionados?
 Vincula cualquier ticket o issue relacionado con este Pull Request usando `#` seguido del número (ej. `Cierra #42`).
 
+### OUTCOME
+el resultado o derivado de la implementacion.
+
 ### Otros comentarios
 Si alguien tiene una duda, que hable ahora o calle para siempre.
 
